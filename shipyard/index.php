@@ -5,6 +5,7 @@
 ?>
 
 <?php get_header(); ?>
+<h1>OMG</h1>
 <div id="content">
 
 	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
